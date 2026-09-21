@@ -17,7 +17,7 @@
 ---
 
 ### 📌 Featured Projects
-- 📊 **[Enterprise Monitoring Stack](https://github.com/meriem-monitoring002/monitoring-project):** A complete end-to-end monitoring and alerting infrastructure utilizing Prometheus, Grafana, cAdvisor, Node Exporter, and Alertmanager.
+- 📊 **[Enterprise Monitoring Stack](https://github.com/meriem-brk/monitoring-project):** A complete end-to-end monitoring and alerting infrastructure utilizing Prometheus, Grafana, cAdvisor, Node Exporter, and Alertmanager.
 
 ---
 
