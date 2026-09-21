@@ -1,7 +1,7 @@
 # Hi there, I'm Meriem 👋
 
 ### 🚀 About Me
-- 🔭 looking for opportunities as a junior DevOps Engineer/Infrastructure Specialist**.
+- 🔭 Looking for opportunities as a junior DevOps Engineer/Infrastructure Specialist**.
 - 🛠️ Tech stack focus: **Prometheus, Grafana, Docker, Loki, Alertmanager, & Linux System Administration**.
 - 🎯 Passionate about **DevOps, Infrastructure as Code (IaC), and Cloud Technologies**.
 
